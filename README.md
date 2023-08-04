@@ -1,4 +1,3 @@
-![figures/readme.png](https://github.com/datawhalechina/prompt-engineering-for-developers/blob/main/figures/readme.jpeg)
 
 # 面向开发者的 LLM 入门课程
 
